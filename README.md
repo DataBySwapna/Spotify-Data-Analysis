@@ -44,7 +44,7 @@ The interactive Tableau dashboard empowers stakeholders to explore trends and op
 ---
 
 ## 🖥️ **Interactive Dashboard**
-🎯 Explore the dashboard live on [Tableau Public](#) <![image](https://github.com/user-attachments/assets/dfb35a5c-6554-4fdf-bbff-54fd4c785e05)>
+🎯 Explore the dashboard live on [Tableau Public](#) <![image](https://github.com/user-attachments/assets/dfb35a5c-6554-4fdf-bbff-54fd4c785e05)
 
 ---
 

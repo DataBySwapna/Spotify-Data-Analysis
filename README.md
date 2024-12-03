@@ -41,7 +41,7 @@ The interactive Tableau dashboard empowers stakeholders to explore trends and op
 ---
 
 ## 🖥️ **Interactive Dashboard**
-🎯 Explore the dashboard live on [Tableau Public](#) <![image] (https://public.tableau.com/app/profile/swapna.macha/viz/SpotifyDataAnalysis_17328981242230/MyDashboard)
+🎯 Explore the dashboard live on [Tableau Public](#)  (https://public.tableau.com/app/profile/swapna.macha/viz/SpotifyDataAnalysis_17328981242230/MyDashboard)
 ---
 
 ## 📷 **Dashboard visuals explained**

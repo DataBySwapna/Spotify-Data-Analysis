@@ -1,6 +1,6 @@
-# 🎵📊 Spotify Track Analysis Dashboard
+# 🎵📊 Spotify Data Analysis
 
-Welcome to the **Spotify Track Analysis Dashboard**! This project explores key musical features such as danceability, energy, tempo, and loudness to uncover trends that affect track popularity. Dive into the interactive Tableau dashboard and discover the magic behind the music! 🎶✨
+Welcome to the **Spotify Data Analysis**! This project explores key musical features such as danceability, energy, tempo, and loudness to uncover trends that affect track popularity. Dive into the interactive Tableau dashboard and discover the magic behind the music! 🎶✨
 
 ![image](https://github.com/user-attachments/assets/e7b78be9-1e5a-4787-b31b-71e16ed6e1f8)
 

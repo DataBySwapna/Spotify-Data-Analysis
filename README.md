@@ -13,11 +13,6 @@ This project analyzes Spotify data to provide actionable insights into:
 - **Tableau**: For interactive visualizations and dashboards.
 - **Excel**: For data cleaning and transformation.  
 ---
-## 🚀 **Key Insights**
-### 🔥 Energy vs. Popularity
-### 💃 Danceability Trends
-### 🎸 Genre Popularity
----
 ## 📋 **Process**
 ### Dataset Exploration 🔍
 - Imported Spotify data into Tableau.
@@ -40,4 +35,9 @@ This project analyzes Spotify data to provide actionable insights into:
 ![image](https://github.com/user-attachments/assets/fba14e2a-79fe-49dc-a814-1e90143398fc)
 ### 📈 Popularity by duration
 ![image](https://github.com/user-attachments/assets/7b705fb5-14ef-44ea-9f39-8700288fe9a9)
+---
+## 🚀 **Key Insights**
+### 🔥 Energy vs. Popularity
+### 💃 Danceability Trends
+### 🎸 Genre Popularity
 ---

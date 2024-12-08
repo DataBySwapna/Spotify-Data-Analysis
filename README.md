@@ -24,7 +24,7 @@ This project analyzes Spotify data to provide actionable insights into:
 - Categorized tracks into popularity tiers (low, medium, high).  
 ---
 ## 🖥️ **Interactive Dashboard**
-🎯 Explore the dashboard live on Tableau Public https://public.tableau.com/app/profile/swapna.macha/viz/SpotifyDataAnalysis_17328981242230/MyDashboard
+🎯 Explore the dashboard live on [Tableau Public](https://public.tableau.com/app/profile/swapna.macha/viz/SpotifyDataAnalysis_17328981242230/MyDashboard)
 ---
 ## 📷 **Dashboard visuals explained**
 ### 🔧 Feature Correlation Heatmap
